@@ -1,4 +1,3 @@
-# FastAPI routes for users
 from fastapi import APIRouter
 
 router = APIRouter()
